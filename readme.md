@@ -1,0 +1,1 @@
+This is the code for the ICCIP 2023 conference paper "**Towards Robust Handwritten Tibetan Numeral Recognition with Spiking Neural Networks**".
